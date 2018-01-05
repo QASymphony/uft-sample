@@ -17,9 +17,9 @@ PREREQUISITES:
  This section will introduce how to setup qTest Automation Integration with UFT agent
  
 # How to use sample project to integrate with qTest Automation Host
-    1. First, download and install qTest Automation Host [here](https://support.qasymphony.com/hc/en-us/articles/115005225543-Download-Automation-Agent-Host)
-    2. Save the UFT sample at C:\uft-sample
-    3. Refer the detail configuration of Agent as below:
+  1. First, download and install qTest Automation Host [here](https://support.qasymphony.com/hc/en-us/articles/115005225543-Download-Automation-Agent-Host)
+  2. Save the UFT sample at C:\uft-sample
+  3. Refer the detail configuration of Agent as below:
 
 ### Agent Configuration
 ![Agent Configuration](/images/uft-agent.png?raw=true)
