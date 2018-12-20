@@ -1,4 +1,4 @@
-# LoginFlights for UFT agent sample
+# LoginFlights for UFT agent sample (support UFT 12.53 and lower version)
 
 An sample script stimulates scenario:
 
